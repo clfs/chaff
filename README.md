@@ -1,0 +1,2 @@
+# chaff
+Confidentiality without encryption.
